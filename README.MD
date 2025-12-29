@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="MediGO.gif" alt="MediGO Logo" width="450">
-</div>
-
-## 📝 Descripción del Proyecto
+# MediGO
 
 **MediGO** es una solución tecnológica diseñada para modernizar el acceso a la salud. Permite la interacción segura y eficiente entre médicos y pacientes, eliminando barreras geográficas mediante videollamadas integradas, gestión de historiales clínicos y un sistema de pagos automatizado.
 
 Este proyecto ha sido desarrollado para el curso **CS 2031 Desarrollo Basado en Plataformas** de la **Universidad de Ingeniería y Tecnología (UTEC)**.
 
-## 🚀 Repositorios del Ecosistema
+<div align="center">
+  <img src="MediGO.gif" alt="MediGO Logo" width="450">
+</div>
+
+## 🚀 Repositorios del Proyecto
 
 | Componente | Repositorio | Tecnologías Clave |
 | :--- | :--- | :--- |

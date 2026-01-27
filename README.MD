@@ -57,14 +57,6 @@ El sistema utiliza una arquitectura **Cliente-Servidor** desacoplada:
 3.  **Seguridad:** Autenticación y autorización basada en **JWT (JSON Web Tokens)**.
 
 
-## 👥 Equipo de Desarrollo
-
-| Nombre | Código |
-| :--- | :--- |
-| **Sebastian Hernan Reategui Bellido** | 202410048
-| **Juan Diego Mejia Armas** | 202410271
-
-
 ## 📄 Licencia
 
 Este proyecto está bajo la **Licencia MIT**. Esto permite el uso, copia y modificación del software de forma libre, siempre que se mantenga la atribución original. Consulta el archivo `LICENSE` para más detalles.
